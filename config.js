@@ -7,6 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
+  ['254715140785', '𓃰G̳̿͟͞E̳̿͟͞E̳̿͟͞𓀛', true]
   ['254700569709', '亗『ＧＥＥ』亗', true], 
   ['254794286079', '亗『ＧＥＥ』亗', true], 
   
@@ -14,7 +15,7 @@ global.owner = [
   
 ] //Number of owners
 
-//global.pairingNumber = "254700569709" //put your bot number here
+//global.pairingNumber = "254715140785" //put your bot number here
 
 global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
 global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
